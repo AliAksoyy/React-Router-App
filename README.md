@@ -1,7 +1,7 @@
-<h1 align="center">React Turkey-Weather-Router-App</h1>
+<h1 align="center">React Router App</h1>
 
 <h3>Overview</h3>
-👨‍💻 In this project I mastered React skills. I used mainly REACT and Styled Component, React Router. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
+👨‍💻 IIn this project I mastered React skills. I used mainly REACT, Router . You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
 <hr>
 
 ## ✨ Demo
@@ -20,7 +20,7 @@
 ````
 ## Project Skeleton 
 
-Turkey Weather(folder)
+Router App(folder)
 |----readme.md        
 SOLUTION
 ├── public
@@ -29,30 +29,27 @@ SOLUTION
 │    ├── assets.js
 │    │     └── images
 │    ├── components
-│    │     ├── Header --> Header.jsx | Header.style.jsx
-│    │     ├── Card --> Card.jsx 
-│    │     └── Navbar --> Navbar.jsx | Navbar.style.jsx
-|    |     └── Footer --> Footer.jsx | Footer.style.jsx
+│    │     ├── Footer.js
+│    │     ├── Card.js
+│    │     └── Navbar.js
+│    │     └── Navbar.js
 │    ├── pages
-│    │     ├── Home--> Home.jsx | Home.style.jsx
-│    │     ├── Map --> Map.jsx  | Map.style.jsx
-│    │     ├── Sign --> Sign.jsx  | Sign.style.jsx
-│    │     ├── cities-->CityList.jsx  | CityList.style.jsx
-│    │     
-│    │     
-│    ├── style
-│    │     └── GlobalStyle.jsx
+│    │     ├── About.js
+│    │     ├── Css.js
+│    │     ├── Home.js
+│    │     ├── Html.js
+│    │     ├── Logo.js
+│    │     └── Services.js
 │    ├── App.js
 │    ├── App.css
 │    ├── index.js
 │    └── index.css
 ├── package.json
-└── yarn.lock
 ````
 <!-- --------------------------------------- -->
 ### Purpose of Project;
 
-👨‍💻 The main aim of this project is to improve my <b> REACT/Styled Component/JS/git commands (push, pull, commit, add etc.) skills and responsive design abilities.</b>
+👨‍💻  The main aim of this project is to improve my <b>REACT/Styled Component/JS/git commands (push, pull, commit, add etc.) skills and responsive design abilities.v</b> 
 
 
 ## Objective
@@ -63,13 +60,9 @@ SOLUTION
 
 -HTML / Semantic elements
 
--Styled Components - Bootstrap - React Icons
+-REACT / Components , Props , Hooks, Router etc.
 
--REACT / Components , Props , UseState, useeffect Hook, Router etc.
-
--Axios and Async-Await
-
--LocalStorage
+-External Css
 
 ### At the end of the project, i will be able to;
 
@@ -86,7 +79,7 @@ SOLUTION
 <hr>
 <h3>How to Use the Project</h3>
 <span>First download a code editor </span>
-<br><span>Second open the files : </span><a href='https://github.com/AliAksoyy/React-Turkey-Weather-App'>My Docs</a>
+<br><span>Second open the files : </span><a href='https://github.com/AliAksoyy/React-Router-App'>My Docs</a>
 <br><span>You should open vscode terminal and write "yarn or npm install" to make the project alive </span>
 <br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
 
